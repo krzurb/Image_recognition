@@ -8,6 +8,7 @@ Author: Krzysztof Urbanowski
 OVERVIEW
 
 The Jupyter Notebook file consists of three main sections:
+
 Model Definition Cell:
 
 Contains a list of classes used in the CIFAR-10 dataset and the definition of the Convolutional Neural Network class. Users can modify the architecture of the neural network in this section.
