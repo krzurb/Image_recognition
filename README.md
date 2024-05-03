@@ -30,6 +30,7 @@ Use the Prediction Cell to make predictions on custom images.
 
 
 FILES
+
 CIFAR10.ipynb: Jupyter Notebook containing model definition, training, and prediction cells.
 
 saved_model.pth: Pre-trained model saved after training.
