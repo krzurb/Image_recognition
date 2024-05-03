@@ -5,6 +5,7 @@ This repository contains an image recognition model trained on the CIFAR-10 data
 Author
 Author: Krzysztof Urbanowski
 
+
 OVERVIEW
 
 The Jupyter Notebook file consists of three main sections:
@@ -18,6 +19,7 @@ Allows users to change parameters such as num_epochs, batch_size, and learning_r
 Prediction Cell:
 Enables users to make predictions based on input images. Three testing images ('dog.jpg', 'cat.jpg', and 'ship.jpg') are provided in this repository.
 
+
 USAGE
 
 Modify the model architecture if needed in the Model Definition Cell.
@@ -25,6 +27,7 @@ Modify the model architecture if needed in the Model Definition Cell.
 Adjust training parameters if necessary in the Training Cell.
 
 Use the Prediction Cell to make predictions on custom images.
+
 
 FILES
 CIFAR10.ipynb: Jupyter Notebook containing model definition, training, and prediction cells.
