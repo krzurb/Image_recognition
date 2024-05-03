@@ -10,13 +10,12 @@ OVERVIEW
 The Jupyter Notebook file consists of three main sections:
 
 Model Definition Cell:
-
 Contains a list of classes used in the CIFAR-10 dataset and the definition of the Convolutional Neural Network class. Users can modify the architecture of the neural network in this section.
+
 Training Cell:
-
 Allows users to change parameters such as num_epochs, batch_size, and learning_rate if needed. After training, the program prints the accuracy for each class. The pre-trained model is saved as 'saved_model.pth'. This cell doesn't need to be run without changes in the model.
-Prediction Cell:
 
+Prediction Cell:
 Enables users to make predictions based on input images. Three testing images ('dog.jpg', 'cat.jpg', and 'ship.jpg') are provided in this repository.
 
 USAGE
