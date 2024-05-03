@@ -2,7 +2,7 @@ Image Recognition
 
 This repository contains an image recognition model trained on the CIFAR-10 dataset.
 
-Author
+
 Author: Krzysztof Urbanowski
 
 
