@@ -21,17 +21,24 @@ Enables users to make predictions based on input images. Three testing images ('
 USAGE
 
 Modify the model architecture if needed in the Model Definition Cell.
+
 Adjust training parameters if necessary in the Training Cell.
+
 Use the Prediction Cell to make predictions on custom images.
 
 FILES
 CIFAR10.ipynb: Jupyter Notebook containing model definition, training, and prediction cells.
+
 saved_model.pth: Pre-trained model saved after training.
+
 dog.jpg, cat.jpg, ship.jpg: Testing images for prediction.
 
 REQUIREMENTS
 
 Python 3.x
+
 PyTorch
+
 torchvision
+
 PIL
